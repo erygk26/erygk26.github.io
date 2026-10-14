@@ -1,0 +1,18 @@
+title: "Muhammet Eray Gök"
+description: "Computer Engineering student interested in artificial intelligence, research, and technology."
+author: "Muhammet Eray Gök"
+
+url: "https://erygk26.github.io"
+baseurl: ""
+
+theme: minima
+markdown: kramdown
+lang: en
+
+header_pages:
+  - index.md
+  - about.md
+  - topic.md
+
+plugins:
+  - jekyll-feed
